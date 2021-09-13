@@ -1,0 +1,13 @@
+.topBar{
+  width: 100%;
+  background-color: #282c34;
+  text-align: center;
+  padding: 8px;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.topBar > img{
+  width: 100px;
+}

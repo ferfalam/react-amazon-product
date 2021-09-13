@@ -1,0 +1,20 @@
+body{
+  font-family: 'Source sans pro', sans-serif;
+  /* overflow: hidden; */
+}
+
+.mainContainer{
+  padding: 4% 12%;
+  margin-top: 32px;
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+@media screen and (max-width:983px) {
+  .mainContainer {
+    display: block;
+  }
+}
+
